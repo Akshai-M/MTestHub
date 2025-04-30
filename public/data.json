@@ -1,0 +1,9 @@
+{
+    "about" : " I am a MERN stack developer",
+    "skills": ["JS", "CSS"],
+    "hoobies": ["Gaming", "Reading"],
+    "passion": ["Coding"],
+    "academic": "BE in CSE, VTU",
+    "experience": "Intern",
+    "certi": ["AWS", "React Mastery"]
+}
